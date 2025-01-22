@@ -13,7 +13,7 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 - ik heb samen met Ralf een planning gemaakt in figma we hebben bijde eerst een versie gemaakt, daarna hebben we onze versies samengevoegd, tot 1 finale versie.
   dan hebben we een pagina voor een film en een pagina voor een activiteit gemaakt. Daarna heb ik verschillende hamburgermenu paginas gemaakt voor de verschillende pagina's, dan heb ik ze geconnecteerd in prototyping en heb ik ook de logo's met de homepage geconnecteerd. Ik heb ook nog gezocht naar pagina's waar de tekst nog niet vertaald was naar het engels(of met schrijffouten) en dan heb ik deze teksten vertaald naar het engels.
   We hebben de resultaten van onze usertesting besproken, we hebben besloten wat de grootste problemen zijn en hoe we deze moeten oplossen (de grootste problemen zijn de homepage is niet duidelijk genoeg hij heeft te veel tekst en geen images, de quiz is nog niet aantrekkelijk genoeg om te willen afleggen en de feedback is niet specifiek genoeg uitgelegd.).
-
+  we zijn ook al begonnen met de feedback toe te passen.
 > -
 
 ---
